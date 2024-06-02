@@ -46,7 +46,7 @@
     "@adobe/fetch": "4.1.1",
     "@adobe/helix-shared-wrap": "2.0.0",
     "@adobe/helix-status": "10.0.11",
-    "aws4": "1.12.0"
+    "aws4": "1.13.0"
   },
   "devDependencies": {
     "@adobe/eslint-config-helix": "2.0.5",
@@ -58,14 +58,14 @@
     "@semantic-release/git": "10.0.1",
     "c8": "8.0.1",
     "codecov": "3.8.3",
-    "dotenv": "16.3.1",
-    "eslint": "8.56.0",
+    "dotenv": "16.4.5",
+    "eslint": "8.57.0",
     "husky": "8.0.3",
-    "junit-report-builder": "3.1.0",
-    "lint-staged": "15.2.0",
-    "mocha": "10.2.0",
+    "junit-report-builder": "3.2.1",
+    "lint-staged": "15.2.5",
+    "mocha": "10.4.0",
     "mocha-multi-reporters": "1.5.1",
-    "nock": "13.4.0",
+    "nock": "13.5.4",
     "semantic-release": "22.0.12"
   },
   "lint-staged": {
